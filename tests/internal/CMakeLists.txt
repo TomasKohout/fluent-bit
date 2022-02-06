@@ -23,6 +23,7 @@ set(UNIT_TESTS_FILES
   multiline.c
   typecast.c
   timeout.c
+  upstream.c
   )
 
 # Config format
